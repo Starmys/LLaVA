@@ -28,3 +28,4 @@ ckpts*
 .ipynb_checkpoints
 *.pt
 snapshot/*/*/*.txt
+playground/data/eval/
